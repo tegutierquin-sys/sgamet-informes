@@ -7,9 +7,9 @@ monograficos:
       - nombre: "1ª Edición"
         fecha: "2025"
         sharepoint_url: "https://colaboraage.sharepoint.com/:p:/s/SGAMET-Teams/IQAWHxES-VlzRJrb0je0pp2kAYMMPl0gwOu4UBVg3x1PyRE?e=KhaHGz"
-      - nombre: "En progreso - 2ª Edición"
+      - nombre: "2ª Edición · acceso al portal Fondos"
         fecha: "2026"
-        sharepoint_url: ""
+        sharepoint_url: "https://sgamet-fondosinversion.streamlit.app"
 
   - titulo: "Satélites"
     icono: "📡"
