@@ -73,10 +73,18 @@ monograficos:
     color: "#2c3e6e"
     descripcion: "Computación en el borde de la red: arquitectura, casos de uso en telecomunicaciones, despliegue de infraestructura y evolución del mercado en España y Europa."
     ediciones:
-      - nombre: "En progreso - 1ª Edición"
+      - nombre: "1ª Edición"
         fecha: "2026"
         sharepoint_url: "https://colaboraage.sharepoint.com/:p:/s/SGAMET-Teams/IQBW81VaLen-QpOAHrNDh2eOAR2ZZTn3Ng3X_hMN6WykP3c?e=x8a9c5" 
 
+  - titulo: "Semiconductores"
+    icono: ""
+    color: "#1a3a5c"
+    descripcion: "Análisis del sector de los semiconductores."
+    ediciones:
+      - nombre: "1ª Edición"
+        fecha: "2026"
+        sharepoint_url: "https://colaboraage.sharepoint.com/:p:/s/SGAMET-Teams/IQD05nxBibMETL6izlqL6MupAZO2rAr1HrS9mPaaq5GjZqY?e=zKo04u" 
 
 # ─────────────────────────────────────────────────────────────
 # CÓMO AÑADIR UN NUEVO MONOGRÁFICO:
