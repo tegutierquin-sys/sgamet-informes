@@ -19,6 +19,10 @@ monograficos:
       - nombre: "1ª Edición"
         fecha: "2025"
         sharepoint_url: "https://colaboraage.sharepoint.com/:p:/s/SGAMET-Teams/IQAlJTyYRmeyR6Ts2jPBtD84AQeESHNz0WNsTMMV2nO0W9M?e=hMxDwj"
+      - nombre: "2ª Edición"
+        fecha: "2026"
+        sharepoint_url: "https://colaboraage.sharepoint.com/:p:/s/SGAMET-Teams/IQDLgENVKNHSSI_gi8q1vRAYAXmE4A20g2kdx_a806YYIa4?e=1ds6dl"
+
 
   - titulo: "Cable Submarino"
     icono: "🌊"
